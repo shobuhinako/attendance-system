@@ -47,3 +47,7 @@
 4. php artisan key:generate
 5. php artisan migrate
 6. php artisan db:seed
+
+## 画面URL
+http://localhost/
+(環境構築後にこちらのURLからログイン)
